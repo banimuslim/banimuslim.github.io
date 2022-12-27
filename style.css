@@ -1,0 +1,11 @@
+body{
+	background-color: lightyellow;
+}
+header {
+	box-sizing: border-box;
+	background-color: lightblue;
+	border: 3px solid grey;
+	box-shadow: 0 5px 5px blue;
+	padding: 5px 5px 10px 10px;
+	margin-bottom: 15px;
+}
